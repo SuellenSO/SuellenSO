@@ -15,8 +15,8 @@ Estou em busca da minha primeira oportunidade em tecnologia. 🚀
 ## 📂 Projetos em destaque
 
 - **[Calculadora de IMC](https://github.com/SuellenSO/CalculadoraIMC)**: aplicação em React que calcula o índice de massa corporal. [Ver online](link-do-projeto-no-ar)
-- **[Projeto Cordel](https://github.com/SuellenSO/Projeto-cordel)**: página em HTML e CSS sobre o cordel. [descreva em uma frase]
-- **[Projeto Social](https://github.com/SuellenSO/Projeto-social)**: página de redes sociais em HTML e CSS. [descreva em uma frase]
+- **[Projeto Cordel](https://github.com/SuellenSO/Projeto-cordel)**: página em HTML e CSS sobre o cordel.
+- **[Projeto Social](https://github.com/SuellenSO/Projeto-social)**: página de redes sociais em HTML e CSS. 
 
 ## 📚 Estudando agora
 
